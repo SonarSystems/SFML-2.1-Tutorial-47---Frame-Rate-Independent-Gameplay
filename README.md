@@ -1,4 +1,4 @@
-SFML-2.1-Tutorial-47---Frame-Rate-Independent-Gameplay
+SFML 2.1 Tutorial 47 - Frame Rate Independent Gameplay
 ======================================================
 
-Code for the following video tutorial 
+Code for the following video tutorial http://youtu.be/qplKFkcpBMw
